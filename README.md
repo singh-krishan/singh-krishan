@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @singh-krishan
-- 👀 I’m interested in applying ML and DS to Healthcare domain problems in the UK
+- 👀 Areas of interest: Python, AWS, Kubernetes, Platform engineering, LLM 
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/singhkrishan/, Email: krishan.singh@hec.edu
 
 <!---
