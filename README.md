@@ -17,9 +17,9 @@ With an engineering foundation and an MBA from **HEC Paris**, I bring the rare a
 ## 🚀 Product Highlights
 
 ### 🔗 **Product** @ HMRC  
-Led the product strategy and delivery of APIs and File transfers.  
-💡 Introduced GDS-compliant onboarding, reducing developer onboarding time by 80%.  
-💰 Optimised API and File transfer development process along with AWS usage, delivering £3M annual cost savings.
+- Led the product strategy and delivery of APIs and File transfers.  
+- Introduced GDS-compliant onboarding, reducing developer onboarding time by 80%.  
+- Optimised API and File transfer development process along with AWS usage, delivering £3M annual cost savings.
 
 ### 💸 **Checkout & Monetization** @ Paddle, Cazoo  
 - Reduced checkout load time by 30% at Paddle, boosting conversion  
