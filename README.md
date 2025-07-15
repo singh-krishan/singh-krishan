@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Krishan Singh
+# 👋 Hi, I'm Krishan Singh (Kris)
 
 🎯 **Product Leader** | 🧠 Strategy + Execution | 🚀 API Platforms • Developer Experience • Checkout Innovation  
 📍 London, UK | ✉️ krishaned@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/singhkrishan)
