@@ -46,7 +46,7 @@ With an engineering foundation and an MBA from **HEC Paris**, I bring the rare a
 - **Customer Experience Optimisation**  
 - **Data-driven Decision Making**  
 - **Agile Delivery & OKRs**  
-- **Stakeholder Management & Executive Reporting**
+- **Stakeholder Management**
 
 ---
 
